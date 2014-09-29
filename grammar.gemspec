@@ -6,4 +6,7 @@ Gem::Specification.new do |s|
   s.authors       = 'Katie'
   s.email         = 'kab761@gmail.com'
   s.files         = ['lib/grammar.rb']
+
+  s.add_development_dependency 'rspec'
+
 end
